@@ -13,6 +13,25 @@
 
 <br />
 
+<h3 align="center">👨‍💻 About Me</h3>
+<p align="center">
+   I am an <b>MCA Cloud Computing Scholar</b> at Chandigarh University, building scalable systems and mastering Cloud Native Architecture. <br> 
+   My goal is to engineer resilient infrastructure using <b>AWS, Azure, and Kubernetes</b>.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<br />
+
+<br />
+
 <h3 align="center">🛠️ Arsenals & Cloud Tech</h3>
 <p align="center">
   <a href="https://skillicons.dev">
