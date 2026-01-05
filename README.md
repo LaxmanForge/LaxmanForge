@@ -12,3 +12,17 @@
 </div>
 
 <br />
+
+<div align="center">
+  ... (The code you pasted in Step 2 is here) ...
+</div>
+
+<br />
+
+<h3 align="center">🛠️ Arsenals & Cloud Tech</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,aws,azure,docker,linux,git,github,vscode&perline=7" />
+  </a>
+</p>
+<br />
