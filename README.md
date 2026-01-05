@@ -26,3 +26,21 @@
   </a>
 </p>
 <br />
+
+
+<h3 align="center">📊 Activity Dashboard</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LaxmanForge&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanForge&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
