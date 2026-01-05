@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+LaxmanSingh;Cloud+Native+Developer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Laxman;Cloud+Native+Developer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -13,37 +13,28 @@
 
 <br />
 
-<div align="center">
-</div>
-
-<br />
-
 <h3 align="center">🛠️ Arsenals & Cloud Tech</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,aws,azure,docker,linux,git,github,vscode&perline=7" />
   </a>
 </p>
+
 <br />
 
-
 <h3 align="center">📊 Activity Dashboard</h3>
-
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=LaxmanForge&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="400" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanForge&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="400" />
       </td>
     </tr>
   </table>
 </div>
-
-<br />
-
 
 <br />
 
