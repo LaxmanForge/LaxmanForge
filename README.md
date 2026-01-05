@@ -13,6 +13,17 @@
 
 <br />
 
+<h3 align="center">🏆 Achievements</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LaxmanForge&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br />
+
+<br />
+
 <h3 align="center">🛠️ Arsenals & Cloud Tech</h3>
 <p align="center">
   <a href="https://skillicons.dev">
