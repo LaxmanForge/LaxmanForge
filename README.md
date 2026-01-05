@@ -13,17 +13,6 @@
 
 <br />
 
-<h3 align="center">🏆 Achievements</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LaxmanForge&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
-<br />
-
-<br />
-
 <h3 align="center">🛠️ Arsenals & Cloud Tech</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,15 +24,17 @@
 
 <h3 align="center">📊 Activity Dashboard</h3>
 <div align="center">
-  <img src="https://github.com/LaxmanForge/LaxmanForge/blob/main/profile-summary-card-output/default/0-profile-details.svg" width="400" />
-  <img src="https://github.com/LaxmanForge/LaxmanForge/blob/main/profile-summary-card-output/default/2-most-commit-language.svg" width="400" />
+  <img src="profile-summary-card-output/default/0-profile-details.svg" width="400" />
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="400" />
 </div>
+<br />
 <div align="center">
-  <img src="https://github.com/LaxmanForge/LaxmanForge/blob/main/profile-summary-card-output/default/3-stats.svg" width="800" />
+  <img src="profile-summary-card-output/default/3-stats.svg" width="800" />
 </div>
+
 <br />
 
 <h3 align="center">🐍 Contribution History</h3>
 <div align="center">
-  <img src="https://github.com/LaxmanForge/LaxmanForge/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="dist/github-contribution-grid-snake-dark.svg" />
 </div>
