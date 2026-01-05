@@ -14,7 +14,6 @@
 <br />
 
 <div align="center">
-  ... (The code you pasted in Step 2 is here) ...
 </div>
 
 <br />
