@@ -35,18 +35,12 @@
 
 <h3 align="center">📊 Activity Dashboard</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LaxmanForge&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanForge&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/LaxmanForge/LaxmanForge/blob/main/profile-summary-card-output/default/0-profile-details.svg" width="400" />
+  <img src="https://github.com/LaxmanForge/LaxmanForge/blob/main/profile-summary-card-output/default/2-most-commit-language.svg" width="400" />
 </div>
-
+<div align="center">
+  <img src="https://github.com/LaxmanForge/LaxmanForge/blob/main/profile-summary-card-output/default/3-stats.svg" width="800" />
+</div>
 <br />
 
 <h3 align="center">🐍 Contribution History</h3>
